@@ -6,6 +6,9 @@ app = flask.Flask(__name__)
 def index():
     return 'Hello World'
 
+def contact():
+    return 'Contact'
+
 if __name__ == '__main__':
     app.run()
     app.run(debug=True)
