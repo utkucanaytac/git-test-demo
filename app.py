@@ -14,6 +14,4 @@ if __name__ == '__main__':
     app.run(debug=True)
     app.run(debug=True, host='')
 
-
-# i made some changes in the code
-# i made some changes in the code
+##3bu commiti eklemek istiyorum sadece
